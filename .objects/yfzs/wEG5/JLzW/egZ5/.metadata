@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hover 'BUTTON'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "egZ59IDOpEqma0Z8OTTQ8w",
+  "Reference": "50gpj_Yl0EqfDT3sPhPBxA/egZ59IDOpEqma0Z8OTTQ8w",
+  "ParentRef": "50gpj_Yl0EqfDT3sPhPBxA/JLzWm5Qe0EGe3ScmVYaRsw",
+  "Created": "2025-02-27T09:08:27.2682683Z",
+  "Updated": "2025-02-27T09:08:27.2682683Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

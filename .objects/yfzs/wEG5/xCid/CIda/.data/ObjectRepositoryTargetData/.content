@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kq4r_v0lp0uaEeyAPurbyg" Reference="50gpj_Yl0EqfDT3sPhPBxA/CIdalyv040OVRuOKCqEW1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://core.dev.uat-live.apexgroup.com/#/deal/131692/facility/443975/commitment-fee/0" DesignTimeRectangle="569, 886, 86, 30" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Start Date End Date Days Average Rate Average Amount Accrued Fee Settlement Amount Settlement Date' tag='TABLE' /&gt;&lt;webctrl tableCol='3' tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Start Date End Date Days Average Rate Average Amount Accrued Fee Settlement Amount Settlement Date' tag='TABLE' /&gt;&lt;webctrl type='' class='center md-cell ng-binding' tag='TD' /&gt;" Guid="99d3d1ff-8657-4dba-95b3-c250b502d173" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Apex Loans' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="577, 865, 70, 15" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Start Date End Date Days Average Rate Average Amount Accrued Fee Settlement Amount Settlement Date' tag='TABLE' /&gt;&lt;webctrl aaname='Days' tableRow='1' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Start Date End Date Days Average Rate Average Amount Accrued Fee Settlement Amount Settlement Date' tag='TABLE' /&gt;&lt;webctrl aaname='Days' type='' tag='SPAN' class='' check:innerText='DAYS' /&gt;" Guid="8c967fe6-40f9-42f3-8607-731601d97f0f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1d95aac7608312d23d7f3ef6f24219d4.png" xmlns="">0-mPE535yeEKTmk4ybpM_Jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Apex Loans(3)",
+  "Type": "Screen",
+  "Id": "xCidsWxR3Ey4fUkT2u_N_w",
+  "Reference": "50gpj_Yl0EqfDT3sPhPBxA/xCidsWxR3Ey4fUkT2u_N_w",
+  "ParentRef": "50gpj_Yl0EqfDT3sPhPBxA/wEG5Wo7E5EG6s8L79Qj0nQ",
+  "Created": "2025-02-28T08:17:59.9441802Z",
+  "Updated": "2025-02-28T08:17:59.9441802Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

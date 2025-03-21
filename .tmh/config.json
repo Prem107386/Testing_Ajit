@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://appsvc-uipath-testautotool-nonprod-003.azurewebsites.net/",
+  "defaultProject": {
+    "id": "55a112ba-5c00-0000-6016-0b46a149232d",
+    "name": "SAFe_Funds_Portfolio",
+    "key": "FUNDS"
+  }
+}

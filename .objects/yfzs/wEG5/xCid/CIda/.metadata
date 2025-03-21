@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Days'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "CIdalyv040OVRuOKCqEW1w",
+  "Reference": "50gpj_Yl0EqfDT3sPhPBxA/CIdalyv040OVRuOKCqEW1w",
+  "ParentRef": "50gpj_Yl0EqfDT3sPhPBxA/xCidsWxR3Ey4fUkT2u_N_w",
+  "Created": "2025-02-28T08:18:00.6705967Z",
+  "Updated": "2025-02-28T08:18:00.6705967Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

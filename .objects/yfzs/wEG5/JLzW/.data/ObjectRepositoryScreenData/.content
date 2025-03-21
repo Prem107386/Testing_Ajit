@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="yVWhwgSC4E2w4bX3J6Di-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEYSURBVDhPtZAvS0NhFMaHFhHUoEFByxN0A4vJYrCYzDa/gukeeIawtNkEg0xBLIYFux9CMBqsYr4HzsAmsvGO18vZQS+C+IMT7vM+f+A2Gv+FEYtGXBnRiW+/wog7I0b5juJ7LUZsuHA6iZ5ajBi48PuwjYXo+REjVsP6afTUYsStC38YMVsWWFNBTwUH0T+FEct+fdjGSdJV8KaCUb5WzFUY0fcFSSsL7Ltwut2Ym2DEUlhn0lXw6sKPMVdhxHlcV8FOWN+LuQlGbBvx6da7SS8LPMd1FVyr4EEFm77g/pv1rbC+rjL1P558QdcVXOSCljO/ZO3QaQNfMG/EmRGXRsx96So4VsGNCpr5e0YFHRX0VbBSFfyFMWQY+9RnQ6q4AAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='Apex Loans' /&gt;" Title="Apex Loans" Url="https://loans.uat-live.apexgroup.com/#/deal/137711/alerts">
+      <imageRef attrName="InformativeScreenshot" originalValue="13c38dfcb8bb9d3d8234386a3d977184.jpg" xmlns="">01qhYtZkbq0m67LeIlkIN9g</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

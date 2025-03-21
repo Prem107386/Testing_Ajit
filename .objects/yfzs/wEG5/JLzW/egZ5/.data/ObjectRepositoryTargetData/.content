@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="chCEtqYzVkOYnDRLAAonjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://loans.uat-live.apexgroup.com/#/deal/137711/alerts" DesignTimeRectangle="1838, 517, 19, 16" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Code Transaction Name Alert Scheduled Date Adjusted Date Weekday Reviewed' tag='TABLE' /&gt;&lt;webctrl aria-label='Redirect' tableRow='2' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Code Transaction Name Alert Scheduled Date Adjusted Date Weekday Reviewed' tag='TABLE' /&gt;&lt;webctrl aria-label='Redirect' type='button' tag='BUTTON' class='go-btn-table md-button md-ink-ripple' aaname='                                                      ' /&gt;" Guid="f3b07153-e07e-45e6-9747-cd7088be9358" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Apex Loans' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1247, 385, 36, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Alerts' class='text' parentid='wrapper' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Alerts' class='text' parentid='wrapper' tag='SPAN' type='' check:innerText='ALERTS' /&gt;" Guid="91d9bcdc-b20b-4b7a-89d3-6705421d5757" SearchSteps="FuzzySelector" />
+          <Target DesignTimeRectangle="635, 510, 742, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Code Transaction Name Alert Scheduled Date Adjusted Date Weekday Reviewed' tag='TABLE' /&gt;&lt;webctrl isleaf='1' tableCol='3' tableRow='2' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Code Transaction Name Alert Scheduled Date Adjusted Date Weekday Reviewed' tag='TABLE' /&gt;&lt;webctrl isleaf='1' type='' class='md-cell ng-binding' tag='TD' aaname='                         DRAWDOWN: Notice to Lenders                     ' check:innerText='DRAWDOWN: Notice to Lenders' /&gt;" Guid="e552a40f-aabe-407f-8899-ef8a596365d3" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b23ff325dc135d1801a1385860951f93.png" xmlns="">0ux7Ggu0GGESKb8OPjFHomg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
